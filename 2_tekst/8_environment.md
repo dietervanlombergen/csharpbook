@@ -1,6 +1,6 @@
 # Environment bibliotheek
 
-De ``Console`` blibotheekis maar 1 van de vele bibliotheken die je in je C# programma's kunt gebruiken. Een andere erg nuttige is de ``Environment``-blibotheek. Deze geeft je applicatie allerlei nuttige informatie over de computer waarop het programma op dat moment draait. Denk maar aan het werkgeheugen, gebruikersnaam van de huidige gebruiker, het aantal processoren etc.
+De ``Console`` bibliotheek is maar 1 van de vele bibliotheken die je in je C# programma's kunt gebruiken. Een andere erg nuttige is de ``Environment``-blibotheek. Deze geeft je applicatie allerlei nuttige informatie over de computer waarop het programma op dat moment draait. Denk maar aan het werkgeheugen, gebruikersnaam van de huidige gebruiker, het aantal processoren etc.
 
 
 
